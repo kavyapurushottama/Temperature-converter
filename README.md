@@ -1,2 +1,2 @@
-# OIBSIP_task3
-Temperature Converter - HTML, CSS, and Javascript
+# Temperature Converter
+A Tempertature converter to convert temperature from Celcius to Fahrenhiet and vice-versa.
